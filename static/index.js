@@ -24,7 +24,7 @@ var music=new Audio();
 var musicIndex=0;
 music.autoplay=true;
 music.shouldUpdate=true;
-music.volume=0.5;
+music.volume=0.3;
 music.onended=loadnextMusic;
 
 
