@@ -1,6 +1,6 @@
 var musicList=[
     {
-        src:'http://m10.music.126.net/20181114112455/f5c0e978d9bdbc18465ebc09e40e514a/ymusic/3c9e/439c/d816/0f5c0962d2c3067a35bf7163bea08424.mp3',
+        src:'http://m10.music.126.net/20181114210758/a85a38a6cfd4ea10265b38072e96c744/ymusic/3c9e/439c/d816/0f5c0962d2c3067a35bf7163bea08424.mp3',
         title:'这一切没有想象的那么糟',
         singer:'万晓利'
     },
