@@ -1,0 +1,58 @@
+* {
+    margin:0;
+    padding:0;
+    color:rgb(245, 151, 167);
+}
+a {
+    text-decoration: none;
+}
+ul li{
+    list-style:none;
+}
+.box {
+    border:1px solid #76dba3;
+    box-shadow: 1px 2px 5px 1px rgba(14, 238, 100,0.5);
+    width:400px;
+}
+
+.box .info {
+    width:100%;
+    position:relative;
+    margin:10px 10px;
+    font-family:Arial;
+    text-align:center;
+    
+}
+.box .info .btn{
+    position:absolute;
+    bottom:5px;
+    left:5px;
+}
+.box .play .bar{
+    width:300px;
+    padding-left:15px;
+    padding-bottom:10px;
+    position:relative;
+}
+.box .play .bar .progressall{
+    border:1px solid rgb(185, 177, 177);
+    cursor:pointer;
+}
+.box .play .bar .progressnow{
+    border:1px solid rgb(245, 151, 167);
+    cursor:pointer;
+    width:0;
+    position:absolute;
+    bottom:30px;
+}
+.box .play .bar .time{
+    text-align:right;
+    font-size:10px;
+    margin:2px;
+}
+
+
+
+.musiclist {
+    display:none;
+}
